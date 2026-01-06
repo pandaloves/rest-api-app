@@ -1,0 +1,22 @@
+[ {
+  "articleNumber" : "01",
+  "title" : "Flower dress",
+  "price" : 599.0,
+  "description" : "A flower embroidered maroon dress.",
+  "image" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQi82y_wunR1hxGh2Qjm0dnpOY75Sqg06VKKQTjRNOIpk32VaQcmoEeVHhRf3DNt3Y25fEBii_nnnixqUon56vgzqrO6pYpaPdcbMTlvgI1Dwn21ToAuZBCbwxgR9W5c-sG7oV0J4tvDO0&usqp=CAc",
+  "category" : "Women"
+}, {
+  "articleNumber" : "02",
+  "title" : "A T-shirt",
+  "price" : 299.0,
+  "description" : "A blue T-shirt.",
+  "image" : "https://bamigo.com/media/catalog/product/cache/e5003119a0e3fd304438d617b07da7a2/b/a/bamigo_man_day3_001045.jpg",
+  "category" : "Men"
+}, {
+  "articleNumber" : "03",
+  "title" : "A coat",
+  "price" : 499.0,
+  "description" : "A warm coat.",
+  "image" : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST7qaGGDKYOWZT5V8xkAoyzNlBH1vQwZB1hGDQ8AgyKQ28n_uQdh6uWAywoW99-78d7IHjCtUx7DM-kDBXZZqyeh3L3vlNorhTc3vbyfSuPaaPSHJ9Hkdj&usqp=CAc",
+  "category" : "Children"
+} ]
