@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Mei188 Shop API – version via GitHub Actions 🚀";
+        return "Mei188 Shop API – version via GitHub Actions! 🚀🚀🚀";
     }
 }
